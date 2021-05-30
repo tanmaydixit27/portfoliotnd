@@ -41,6 +41,11 @@ table{
     background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
     text-decoration: none;
   }
+.skills{
+  text-align: center;
+  background-color: #3b14a7;
+}
+
 .tanmay{
      text-align: center;
      color:black;
@@ -59,8 +64,4 @@ table{
   }
 img{
   border-radius: 50%;
-}
-.skills{
-  text-align: center;
-  background-color: #3b14a7;
 }
