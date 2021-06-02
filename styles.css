@@ -1,8 +1,9 @@
 body{
   
-    background-size: cover;
-    background-color: #ffbbcc;
-    
+  background-image: url("tndwallpaper.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
    
 }
 .heading{
